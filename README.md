@@ -1,8 +1,8 @@
 # WebAutomation
 
 ### Usage
-        $ git clone https://github.com/ryallurkar/WebAutomation.git
-        $ cd WebAutomation
+        $ git clone https://github.com/ryallurkar/SumUp.git
+        $ cd sum-up
         $ mvn clean test
 
 ### Reporting
