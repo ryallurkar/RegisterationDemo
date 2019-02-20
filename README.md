@@ -2,7 +2,7 @@
 
 ### Usage
         $ git clone https://github.com/ryallurkar/SumUp.git
-        $ cd sum-up
+        $ cd sumup
         $ mvn clean test
 
 ### Reporting
