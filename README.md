@@ -1,8 +1,8 @@
 # WebAutomation
 
 ### Usage
-        $ git clone https://github.com/ryallurkar/SumUp.git
-        $ cd sumup
+        $ git clone https://github.com/ryallurkar/RegisterationDemo.git
+        $ cd RegisterationDemo
         $ mvn clean test
 
 ### Reporting
