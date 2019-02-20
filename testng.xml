@@ -9,45 +9,7 @@
 
 	<test name="Test Home Page">
 		<classes>
-			<class name="tests.HomePage" />
-		</classes>
-	</test> <!-- Test -->
-
-	<test name="Test Search Page">
-		<classes>
-			<class name="tests.SearchPage" />
-		</classes>
-	</test> <!-- Test -->
-
-	<test name="Test Product Page">
-		<classes>
-			<class name="tests.ProductPage" />
-		</classes>
-	</test> <!-- Test -->
-
-
-	<test name="Test Cart Page">
-		<classes>
-			<class name="tests.CartPage" />
-		</classes>
-	</test> <!-- Test -->
-
-	<test name="Test Login Page">
-		<classes>
-			<class name="tests.LoginPage" />
-		</classes>
-	</test> <!-- Test -->
-
-
-	<test name="Test registration Page">
-		<classes>
-			<class name="tests.RegistrationPage" />
-		</classes>
-	</test> <!-- Test -->
-
-	<test name="Test Checkout Page">
-		<classes>
-			<class name="tests.CheckoutPage" />
+			<class name="tests.RegisterCompany" />
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
