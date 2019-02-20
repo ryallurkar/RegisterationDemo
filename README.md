@@ -12,3 +12,4 @@
 
 
         $ allure serve allure-results
+![SampleReport](https://github.com/ryallurkar/SumUp/blob/master/src/test/resources/sample-report_1.png)
